@@ -1,0 +1,5 @@
+libvmod-querystring (0.1-1) UNRELEASED; urgency=medium
+
+  * Initial debian packaging
+
+ -- Leif Johansson <leifj@mnt.se>  Sun, 02 Nov 2014 15:06:53 +0100
